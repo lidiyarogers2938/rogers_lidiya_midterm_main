@@ -1,0 +1,143 @@
+/* 
+
+    CSS Guide
+
+    1. General Styles
+    2. Grid
+    3. Header
+    4. Main Hero Image
+    5. Features
+    6. Footer
+
+*/
+
+/* 1. ---General Styles--- */
+
+
+.hidden {
+    display: none;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #ede3e3;
+}
+
+.box-color {
+    background-color: rgb(255, 198, 117);
+    color: white;
+    text-align: center;
+}
+
+.box-color2  {
+    background-color: #bca8c8;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
+/* 2. ---Grid--- */
+
+.grid {
+    display: grid;
+    padding-left: 15px;
+    padding-right: 15px;
+    grid-template-columns: repeat(12,70px);
+    grid-column-gap: 30px;
+}
+
+/* 3. ---Header--- */
+ 
+
+#header-logo {
+    height: 130px;
+    width: 270px;
+    grid-column: 1/4;
+    margin-top: -1/1px;
+    background-color: #ede3e3;
+   
+}
+
+#header-nav{
+    height: 70px;
+    width: 570px;
+    grid-column: 7/-1;
+    margin-top: 15px;
+    text-align:center;
+    background-color:#ede3e3
+}
+
+#hero {
+    margin-top: 70px;
+    width: 300px;
+}
+
+
+
+/* 4. ---Main Hero Image--- */
+#hero-image {
+    grid-column: 1/-1;
+    width: 1170px;
+    height: 500px;
+    grid-row: 1/3;
+}
+
+
+
+
+#tag-line {
+    grid-column: 1/-1;
+    height: 100px;
+    width: 1170px;
+    grid-row: 2/3;
+    align-self: end;
+}
+
+
+
+
+/* 5. ---Features--- */
+
+
+#features-con {
+    margin-top: 100px;
+}
+
+
+
+
+.feature {
+    width: 370px;
+    height: 300px;
+    grid-column: span 4;    
+}
+
+/*hearts*/
+
+#blueheart:hover{opacity: 0.5;
+}
+
+#greenheart:hover{opacity: 0.5;
+}
+
+#redheart:hover{opacity: 0.5;}
+
+
+/* 6. ---Footer--- */
+
+#footer-con-full {
+    height: 100px;
+    margin-top: 150px;
+    
+}
+
+#footer-nav {
+    width: 640px;
+    height: 70px;
+    margin-top: 15px;
+    grid-column: 1/8;
+    margin-left: 15px;
+}
+
