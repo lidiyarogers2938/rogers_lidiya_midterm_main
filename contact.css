@@ -1,0 +1,53 @@
+.hidden {
+    display: none;
+}
+
+.container {
+    width: 1200px;
+    height: 1500px;
+    margin: 0 auto;
+    background-color: #a0a0a0;
+}
+
+/* 2. ---Grid--- */
+
+.grid {
+    display: grid;
+    padding-left: 0px;
+    padding-right: 0px;
+    grid-template-columns: repeat(12,72px);
+    grid-column-gap: 30px;
+}
+
+
+/*header*/
+#main-logo {
+    background-color: #bf3534;
+    text-align: center;
+    height: 150px;
+    width: 200px;
+    grid-column: 11/1;
+    grid-row: 3/2;
+    margin-top: -170px;
+
+}
+
+#header {
+    background-color: #bf3534;
+    width: 1200px;
+    height: 170px;
+    margin: left 15px / 1px;
+    padding: left -15px; 
+}
+
+
+#header-nav  {
+    height: 70px;
+    width: 360px;
+    grid-column: 9/-1; 
+    background-color:  #bf3534;
+    color: #ffffff;
+    grid-row: 13/-13 auto;
+    margin-top: 60px;
+    font-size:larger;
+}
