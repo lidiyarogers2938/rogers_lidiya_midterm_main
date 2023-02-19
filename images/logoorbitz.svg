@@ -1,103 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 382.55 160.12">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #f47a3d;
-      }
-
-      .cls-2 {
-        fill: #f7c73c;
-      }
-
-      .cls-3 {
-        fill: #ee1f4d;
-      }
-
-      .cls-4 {
-        fill: #f5ec4b;
-      }
-
-      .cls-5 {
-        fill: #6858a6;
-      }
-
-      .cls-6 {
-        fill: #b7b6b6;
-      }
-
-      .cls-7 {
-        fill: #9d90c5;
-      }
-
-      .cls-8 {
-        fill: #42c4f2;
-      }
-
-      .cls-9 {
-        fill: #78c143;
-      }
-
-      .cls-10 {
-        fill: #231f20;
-        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
-        font-size: 112px;
-      }
-
-      .cls-11 {
-        stroke: #231f20;
-      }
-
-      .cls-11, .cls-12 {
-        fill: none;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-12 {
-        stroke: #aeadad;
-      }
-    </style>
-  </defs>
-  <g>
-    <circle class="cls-9" cx="42.67" cy="49.61" r="5.06"/>
-    <circle class="cls-8" cx="53.65" cy="49.96" r="5.06"/>
-    <circle class="cls-3" cx="86.38" cy="76.07" r="5.06"/>
-    <circle class="cls-7" cx="5.06" cy="84.04" r="5.06"/>
-    <circle class="cls-2" cx="14.09" cy="64.33" r="5.06"/>
-    <circle class="cls-8" cx="5.21" cy="94.86" r="5.06"/>
-    <circle class="cls-4" cx="7.61" cy="73.27" r="5.06"/>
-    <circle class="cls-9" cx="8.6" cy="105.07" r="5.06"/>
-    <circle class="cls-5" cx="31.82" cy="51.3" r="5.06"/>
-    <circle class="cls-2" cx="81.16" cy="66.57" r="5.06"/>
-    <circle class="cls-4" cx="73.17" cy="58.92" r="5.06"/>
-    <circle class="cls-7" cx="64.09" cy="52.98" r="5.06"/>
-    <circle class="cls-3" cx="22.11" cy="56.5" r="5.06"/>
-    <circle class="cls-5" cx="15.22" cy="113.82" r="5.06"/>
-    <circle class="cls-8" cx="74.67" cy="116.05" r="5.06"/>
-    <circle class="cls-9" cx="81.94" cy="107.87" r="5.06"/>
-    <circle class="cls-3" cx="33.58" cy="124.91" r="5.06"/>
-    <circle class="cls-7" cx="65.46" cy="122.01" r="5.06"/>
-    <circle class="cls-1" cx="23.79" cy="120.53" r="5.06"/>
-    <circle class="cls-4" cx="55.11" cy="125.37" r="5.06"/>
-    <circle class="cls-2" cx="44.3" cy="126.78" r="5.06"/>
-    <circle class="cls-5" cx="86.57" cy="97.88" r="5.06"/>
-    <circle class="cls-1" cx="87.87" cy="86.88" r="5.06"/>
-  </g>
-  <text class="cls-10" transform="translate(93.22 128.7) scale(1.17 1.33)"><tspan x="0" y="0">r</tspan></text>
-  <text class="cls-10" transform="translate(223.71 129.54)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-10" transform="translate(153.23 129.42) scale(1.04 1.02)"><tspan x="0" y="0">b</tspan></text>
-  <line class="cls-11" x1="111.25" y1="83.61" x2="111.25" y2="83.32"/>
-  <path class="cls-6" d="M147.13,56.41c.63,.11-4.55-4.07-11.26-4.07s-11.97,5.68-12.28,6.24,5.43-4.13,12.14-4.13,10.2,1.76,11.4,1.97Z"/>
-  <path class="cls-12" d="M232.84,56.29c0-3.6,2.69-6.61,6.3-6.61s6.53,2.92,6.53,6.53"/>
-  <g>
-    <text class="cls-10" transform="translate(309.21 130.43)"><tspan x="0" y="0">z</tspan></text>
-    <ellipse class="cls-6" cx="336.57" cy="74.57" rx="20.6" ry=".82"/>
-    <ellipse class="cls-6" cx="348.51" cy="129.6" rx="13.37" ry=".41"/>
-  </g>
-  <path class="cls-6" d="M205.23,75.07c.63,.11-4.55-4.07-11.26-4.07s-11.97,5.68-12.28,6.24,5.43-4.13,12.14-4.13,10.2,1.76,11.4,1.97Z"/>
-  <g>
-    <text class="cls-10" transform="translate(256.97 128.7) scale(1 1.07)"><tspan x="0" y="0">t</tspan></text>
-    <path class="cls-12" d="M268.5,51.56c0-3.6,2.69-6.61,6.3-6.61s6.53,2.92,6.53,6.53"/>
-    <path class="cls-6" d="M274.35,126.38c-.63-.1,4.63,3.99,11.34,3.86s11.86-5.9,12.16-6.47-5.36,4.23-12.07,4.36-10.23-1.57-11.43-1.75Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#78C143;}
+	.st1{fill:#42C4F2;}
+	.st2{fill:#EE1F4D;}
+	.st3{fill:#9D90C5;}
+	.st4{fill:#F7C73C;}
+	.st5{fill:#F5EC4B;}
+	.st6{fill:#6858A6;}
+	.st7{fill:#F47A3D;}
+	.st8{fill:none;}
+	.st9{font-family:'ArialRoundedMTBold';}
+	.st10{font-size:112px;}
+	.st11{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st12{fill:#B7B6B6;}
+	.st13{fill:none;stroke:#AEADAD;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<circle class="st0" cx="255.8" cy="255.4" r="5.1"/>
+		<circle class="st1" cx="266.8" cy="255.8" r="5.1"/>
+		<circle class="st2" cx="299.6" cy="281.9" r="5.1"/>
+		<circle class="st3" cx="218.2" cy="289.8" r="5.1"/>
+		<circle class="st4" cx="227.3" cy="270.1" r="5.1"/>
+		<circle class="st1" cx="218.4" cy="300.7" r="5.1"/>
+		<circle class="st5" cx="220.8" cy="279.1" r="5.1"/>
+		<circle class="st0" cx="221.8" cy="310.9" r="5.1"/>
+		<circle class="st6" cx="245" cy="257.1" r="5.1"/>
+		<circle class="st4" cx="294.3" cy="272.4" r="5.1"/>
+		<circle class="st5" cx="286.4" cy="264.7" r="5.1"/>
+		<circle class="st3" cx="277.3" cy="258.8" r="5.1"/>
+		<circle class="st2" cx="235.3" cy="262.3" r="5.1"/>
+		<circle class="st6" cx="228.4" cy="319.6" r="5.1"/>
+		<circle class="st1" cx="287.9" cy="321.8" r="5.1"/>
+		<circle class="st0" cx="295.1" cy="313.7" r="5.1"/>
+		<circle class="st2" cx="246.8" cy="330.7" r="5.1"/>
+		<circle class="st3" cx="278.6" cy="327.8" r="5.1"/>
+		<circle class="st7" cx="237" cy="326.3" r="5.1"/>
+		<circle class="st5" cx="268.3" cy="331.2" r="5.1"/>
+		<circle class="st4" cx="257.5" cy="332.6" r="5.1"/>
+		<circle class="st6" cx="299.8" cy="303.7" r="5.1"/>
+		<circle class="st7" cx="301.1" cy="292.7" r="5.1"/>
+	</g>
+	<rect x="306.4" y="253" class="st8" width="58.7" height="88.3"/>
+	<text transform="matrix(1.1676 0 0 1.33 306.4063 334.4896)" class="st9 st10">r</text>
+	<rect x="436.9" y="253.8" class="st8" width="58" height="89.3"/>
+	<text transform="matrix(1 0 0 1 436.8892 335.3323)" class="st9 st10">i</text>
+	<rect x="366.4" y="253.7" class="st8" width="75.2" height="90.2"/>
+	<text transform="matrix(1.04 0 0 1.02 366.4109 335.2096)" class="st9 st10">b</text>
+	<line class="st11" x1="324.4" y1="289.4" x2="324.4" y2="289.1"/>
+	<path class="st12" d="M360.3,262.2c0.6,0.1-4.6-4.1-11.3-4.1c-6.7,0-12,5.7-12.3,6.2c-0.3,0.5,5.4-4.1,12.1-4.1
+		S359.1,262,360.3,262.2z"/>
+	<path class="st13" d="M446,262.1c0-3.6,2.7-6.6,6.3-6.6c3.6,0,6.5,2.9,6.5,6.5"/>
+	<g>
+		<rect x="522.4" y="254.7" class="st8" width="73.3" height="94.2"/>
+		<text transform="matrix(1 0 0 1 522.3896 336.22)" class="st9 st10">z</text>
+		<ellipse class="st12" cx="549.8" cy="280.4" rx="20.6" ry="0.8"/>
+		<ellipse class="st12" cx="561.7" cy="335.4" rx="13.4" ry="0.4"/>
+	</g>
+	<path class="st12" d="M418.4,280.9c0.6,0.1-4.6-4.1-11.3-4.1c-6.7,0-12,5.7-12.3,6.2c-0.3,0.5,5.4-4.1,12.1-4.1
+		C413.7,278.9,417.2,280.7,418.4,280.9z"/>
+	<g>
+		<rect x="470.2" y="253" class="st8" width="73.3" height="90.2"/>
+		<text transform="matrix(1 0 0 1.07 470.1545 334.4917)" class="st9 st10">t</text>
+		<path class="st13" d="M481.7,257.4c0-3.6,2.7-6.6,6.3-6.6c3.6,0,6.5,2.9,6.5,6.5"/>
+		<path class="st12" d="M487.5,332.2c-0.6-0.1,4.6,4,11.3,3.9c6.7-0.1,11.9-5.9,12.2-6.5c0.3-0.6-5.4,4.2-12.1,4.4
+			C492.3,334,488.7,332.4,487.5,332.2z"/>
+	</g>
+</g>
 </svg>

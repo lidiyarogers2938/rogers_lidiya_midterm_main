@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 117.51 431.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0e0e0d;
+        stroke-width: 1.12px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke: #ebed90;
+      }
+
+      .cls-7 {
+        font-size: 13px;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #231f20;
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+      }
+
+      .cls-9 {
+        fill: #f9f9fa;
+      }
+
+      .cls-10 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        stroke-width: .66px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #f9ee41;
+      }
+
+      .cls-3, .cls-6 {
+        stroke: #231f20;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        stroke-width: .67px;
+      }
+
+      .cls-5 {
+        stroke: #0e0e0d;
+        stroke-width: .83px;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        font-size: 24px;
+      }
+
+      .cls-6 {
+        fill: #b7b770;
+        stroke-width: .71px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x=".5" y="132.61" width="116.51" height="298.87" rx="12" ry="12"/>
+  <rect class="cls-6" x=".56" y="239.04" width="115.98" height="36.43"/>
+  <text class="cls-8" transform="translate(20.41 266.77)"><tspan x="0" y="0">Orbitz</tspan></text>
+  <text class="cls-7" transform="translate(4.7 303.37)"><tspan class="cls-10" x="0" y="0">f</tspan><tspan x="4.49" y="0">iller bottle im</tspan><tspan class="cls-11" x="86.43" y="0">a</tspan><tspan class="cls-12" x="93.98" y="0">g</tspan><tspan x="101.78" y="0">e</tspan></text>
+  <rect class="cls-5" x="25.49" y="5.09" width="61.01" height="127.37"/>
+  <ellipse class="cls-1" cx="55.99" cy="5.31" rx="30.5" ry="4.75"/>
+  <ellipse class="cls-9" cx="32.37" cy="59.24" rx="2.8" ry="31.75"/>
+  <ellipse class="cls-9" cx="32.37" cy="118.99" rx="2.33" ry="11.2"/>
+  <ellipse class="cls-2" cx="4.54" cy="364.04" rx="2.05" ry="58.4"/>
+  <ellipse class="cls-4" cx="9.03" cy="189.02" rx="2.53" ry="48.94"/>
+  <ellipse class="cls-9" cx="106.81" cy="345.02" rx="2.33" ry="30.6"/>
+  <ellipse class="cls-9" cx="105.49" cy="180.68" rx="5.4" ry="30.27"/>
+</svg>
