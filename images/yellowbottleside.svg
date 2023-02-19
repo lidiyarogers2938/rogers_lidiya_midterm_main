@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 431.98 117.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0e0e0d;
+        stroke-width: 1.12px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke: #ebed90;
+      }
+
+      .cls-7 {
+        font-size: 13px;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #231f20;
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+      }
+
+      .cls-9 {
+        fill: #f9f9fa;
+      }
+
+      .cls-10 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        stroke-width: .66px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #f9ee41;
+      }
+
+      .cls-3, .cls-6 {
+        stroke: #231f20;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        stroke-width: .67px;
+      }
+
+      .cls-5 {
+        stroke: #0e0e0d;
+        stroke-width: .83px;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        font-size: 24px;
+      }
+
+      .cls-6 {
+        fill: #b7b770;
+        stroke-width: .71px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="91.68" y="-90.68" width="116.51" height="298.87" rx="12" ry="12" transform="translate(208.69 -91.18) rotate(90)"/>
+  <rect class="cls-6" x="116.74" y="40.33" width="115.98" height="36.43" transform="translate(233.28 -116.18) rotate(90)"/>
+  <text class="cls-8" transform="translate(165.21 20.41) rotate(90)"><tspan x="0" y="0">Orbitz</tspan></text>
+  <text class="cls-7" transform="translate(128.61 4.7) rotate(90)"><tspan class="cls-10" x="0" y="0">f</tspan><tspan x="4.49" y="0">iller bottle im</tspan><tspan class="cls-11" x="86.43" y="0">a</tspan><tspan class="cls-12" x="93.98" y="0">g</tspan><tspan x="101.78" y="0">e</tspan></text>
+  <rect class="cls-5" x="332.7" y="-7.69" width="61.01" height="127.37" transform="translate(419.2 -307.21) rotate(90)"/>
+  <ellipse class="cls-1" cx="426.67" cy="55.99" rx="4.75" ry="30.5"/>
+  <ellipse class="cls-9" cx="372.74" cy="32.37" rx="31.75" ry="2.8"/>
+  <ellipse class="cls-9" cx="312.99" cy="32.37" rx="11.2" ry="2.33"/>
+  <ellipse class="cls-2" cx="67.94" cy="4.54" rx="58.4" ry="2.05"/>
+  <ellipse class="cls-4" cx="242.96" cy="9.03" rx="48.94" ry="2.53"/>
+  <ellipse class="cls-9" cx="86.96" cy="106.81" rx="30.6" ry="2.33"/>
+  <ellipse class="cls-9" cx="251.29" cy="105.49" rx="30.27" ry="5.4"/>
+</svg>
