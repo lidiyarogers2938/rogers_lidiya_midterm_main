@@ -4,7 +4,7 @@
 
 .container {
     width: 1200px;
-    height: 1500px;
+    height: 900px;
     margin: 0 auto;
     background-color: #a0a0a0;
 }
@@ -50,4 +50,54 @@
     grid-row: 13/-13 auto;
     margin-top: 60px;
     font-size:larger;
+}
+
+#contact-hero {
+    background-image: url('../images/redbackground.svg');
+    height: 900px;
+    background-repeat: no-repeat ;
+    background-position: center;  
+    background-size: cover;
+    grid-column: 4/10;
+    grid-row: auto;
+}
+
+/*Contact Title*/
+#contact-text {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    grid-column: 5/10 ;
+    grid-row: 1;
+}
+
+
+.input-text{
+    color: white;
+    font-size: x-large;
+}
+
+
+#contact-box {
+   
+    height: 500px;
+    width: 500px;
+    grid-column: 4/9;
+    grid-row: 2;
+
+}
+
+
+
+
+
+/*footer box*/
+#footer-text {
+    margin-bottom: 8px;
+    margin-top: 250px;
+    grid-column: 5/10;
+    text-align: center;
+    grid-row: 1;
+    background-color: #abaaaa;
+    height:400px;
 }
