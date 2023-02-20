@@ -1,0 +1,97 @@
+.hidden {
+    display: none;
+}
+
+
+#container {
+    width: 428px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: #a0a0a0;
+    height: 900px;
+  }
+
+/* 2. ---Grid--- */
+
+
+.grid {
+  display: grid;
+  padding-left: 0px;
+  padding-right: 0px;
+  grid-template-columns: repeat(4,80px);
+  grid-column-gap: 30px;
+}
+
+/*header*/
+
+#header{
+  background-color: #bf3534;
+  width: 428px;
+  height: 200px;
+}
+
+#main-logo {
+  grid-column:1/5 ;
+  grid-row: 2;
+  height: 150px;
+
+}
+
+#header-nav  {
+  height: 50px;
+  width: 97px;
+  grid-column: 3/5; 
+  background-color:  #bf3534;
+  color: #ffffff;
+  grid-row: 1 auto;
+  margin-top: 0px;
+  font-size:small;
+}
+
+#hero-box {
+  background-image: url('../images/redbackground.svg');
+  background-repeat: no-repeat ;
+  background-position: center;  
+  background-size: cover;
+  height: 250px;
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+}
+
+#hero-image {
+  grid-column:1/5;
+  grid-row:2 ;
+}
+
+
+#footer {
+  background-color: #a0a0a0;
+  height: 200px;
+  font-size: xx-large;
+  text-align: center;
+  color: #000000;
+}
+
+#footer-text {
+  margin-bottom: 8px;
+  margin-top: 0px;
+  grid-column: 1/5;
+  text-align: center;
+  grid-row: 1;
+  background-color: #a0a0a0;
+  height:200px;
+}
+
+#email-box {
+  background-color: #070606;
+  color: #000000;
+  grid-column: 1/5;
+  grid-row: 4;
+  font-size: medium;
+}
+
+#socials {
+  grid-column: 1/-1;
+  grid-row: 1;
+}
