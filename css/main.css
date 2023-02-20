@@ -137,33 +137,21 @@ text-align:center;
 
 
 
-
-
-
-
-
-/*
-#imagebox {
-    width: 9px;
-    height:300px ;
-    margin-right: 0px;
-    text-align: center;
-    color: rgb(0, 0, 0);
-    margin-top: 0px;
-    grid-column: -13/-7;
-    grid-row: 8/-auto ;
-}
-*/
-
-
-
 .feature {
     width: 370px;
     height: 300px;
     grid-column: span 4;    
 }
 
-
+#variety-con {
+    background-image: url('../images/greenbackground.svg');
+    grid-column: 1/2 ;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width: 500px;
+}
 
 
 /* 6. ---Footer--- */
