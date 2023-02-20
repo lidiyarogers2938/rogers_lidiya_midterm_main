@@ -6,10 +6,9 @@
 #container {
     width: 428px;
     margin: 20px auto;
-
     border-radius: 10px;
-    background-color: #bababa;
-    height: 1300px;
+    background-color: #a0a0a0;
+    height: 1200px;
   }
 
 /* 2. ---Grid--- */
@@ -19,7 +18,7 @@
   display: grid;
   padding-left: 0px;
   padding-right: 0px;
-  grid-template-columns: repeat(12,72px);
+  grid-template-columns: repeat(4,80px);
   grid-column-gap: 30px;
 }
 
@@ -28,7 +27,108 @@
 #header{
   background-color: #bf3534;
   width: 428px;
-  height: 170px;
+  height: 200px;
+}
+
+#main-logo {
+  grid-column:1/5 ;
+  grid-row: 2;
+  height: 150px;
 
 }
 
+#header-nav  {
+  height: 50px;
+  width: 300px;
+  grid-column: 2/5; 
+  background-color:  #bf3534;
+  color: #ffffff;
+  grid-row: 1 auto;
+  margin-top: 0px;
+  font-size:small;
+}
+
+#hero-box {
+  background-image: url('../images/redbackground.svg');
+  background-repeat: no-repeat ;
+  background-position: center;  
+  background-size: cover;
+  height: 250px;
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+}
+
+#hero-image {
+  grid-column:1/5;
+  grid-row:2 ;
+}
+
+#yellow-box {
+  background-image: url('../images/yellowcircle.avif');
+  background-repeat: no-repeat ;
+  background-position: center;  
+  background-size: cover;
+  height: 250px;
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+}
+
+#yellow-bottle {
+  grid-column:1/4 ;
+  grid-row: 1;
+  text-align: center;
+}
+
+#green-box {
+  background-image: url('../images/greenbackground.svg');
+  background-repeat: no-repeat ;
+  background-position: center;  
+  background-size: cover;
+  height: 250px;
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+}
+
+#green-bottles {
+  grid-row: 2;
+  grid-column:1/4 ;
+  grid-row: 1;
+  text-align: center;
+}
+
+
+/*footer*/
+
+#footer {
+  background-color: #a0a0a0;
+  height: 400px;
+  font-size: xx-large;
+  text-align: center;
+  color: #000000;
+}
+
+#footer-text {
+  margin-bottom: 8px;
+  margin-top: 0px;
+  grid-column: 1/5;
+  text-align: center;
+  grid-row: 1;
+  background-color: #a0a0a0;
+  height:400px;
+}
+
+#email-box {
+  background-color: #070606;
+  color: #000000;
+  grid-column: 1/5;
+  grid-row: 4;
+  font-size: medium;
+}
+
+#socials {
+  grid-column: 1/-1;
+  grid-row: 1;
+}

@@ -20,7 +20,7 @@
 
 .container {
     width: 1200px;
-    height: 2800px;
+    height: 3000px;
     margin: 0 auto;
     background-color: #ede3e3;
 }
@@ -149,10 +149,43 @@ text-align:center;
     background-repeat: no-repeat ;
     background-position: center;
     background-size: cover;
-    height: 600px;
-    width: 500px;
+    height: 650px;
+    width: 1200px;
+}
+
+#berry-bottles {
+   grid-column:  5/11;
+   text-align: center;
 }
 
 
 /* 6. ---Footer--- */
 
+
+
+.input-text{
+    color: white;
+    font-size: x-large;
+}
+
+
+#contact-box {
+   margin-top: 0px;
+    height: 500px;
+    width: 500px;
+    grid-column: 4/9;
+    grid-row: 1;
+
+}
+
+
+/*footer box*/
+#footer-text {
+    margin-bottom: 8px;
+    margin-top: 0px;
+    grid-column: 5/10;
+    text-align: center;
+    grid-row: 1;
+    background-color: #abaaaa;
+    height:400px;
+}
